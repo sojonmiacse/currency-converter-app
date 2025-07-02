@@ -29,4 +29,7 @@ This application uses the [ExchangeRate-API](https://www.exchangerate-api.com/) 
 ## Setup Instructions
 
 1. Clone the repository:
-   git clone https://github.com/csesojonmia23/currency-converter-app.git
+   git clone https://github.com/sojonmiacse/currency-converter-app.git
+
+### Live Demo
+https://sojonmiacse.github.io/currency-converter-app/
